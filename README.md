@@ -1,4 +1,4 @@
-<h1>Hi, I'm Malik Crafton, an <a href="https://linkedin.com/in/malik-crafton">IT Professional</a></h1>
+<h1>Hi, I'm Malik Crafton, an <a href="https://www.linkedin.com/in/malik-crafton-755324263/">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
