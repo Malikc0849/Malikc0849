@@ -1,4 +1,4 @@
-<h1>Hi, I'm Malik, an <a href="https://linkedin.com/in/Malik">IT Professional</a></h1>
+<h1>Hi, I'm Malik Crafton, an <a href="https://linkedin.com/in/Malik">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
