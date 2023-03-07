@@ -17,4 +17,4 @@
 
 [twitter]: https://twitter.com/MixmasterUmm
 [instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: https://linkedin.com/in/malik-crafton-755324263/
