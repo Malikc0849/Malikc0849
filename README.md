@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System with Microsoft: Azure)</b>
   - [osTicket: Required Setup Before Install](https://github.com/Malikc0849/osticket-prereqs)
   - [osTicket: After Installation](https://github.com/Malikc0849/osticket-after-install)
- 
+  - [osTicket: Practice with Handling & Sending Tickets] (https://github.com/Malikc0849/Ticketing-Examples-for-fun-)
   
 - <b>Microsoft Azure</b>
 
